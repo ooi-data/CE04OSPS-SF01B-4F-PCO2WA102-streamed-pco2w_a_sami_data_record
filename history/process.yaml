@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE04OSPS-SF01B-4F-PCO2WA102-streamed-pco2w_a_sami_data_record
 data_stream: CE04OSPS-SF01B-4F-PCO2WA102-streamed-pco2w_a_sami_data_record
 end_date: '2022-01-01T02:14:55.522Z'
-last_updated: '2022-01-02T13:04:39.614434Z'
+last_updated: '2022-01-02T13:08:13.678827'
 start_date: '2015-08-03T16:05:10.343Z'
-status: pending
+status: success
